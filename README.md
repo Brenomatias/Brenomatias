@@ -11,7 +11,7 @@
 ![react](https://user-images.githubusercontent.com/85755031/147395432-d29a3967-b9c1-4580-81fa-e6ad338f7bda.jpg)
 ![mysql](https://user-images.githubusercontent.com/85755031/147395431-696ee7dd-1e82-4d7d-be87-d3f1ad53ee69.jpg)
 ![docker](https://user-images.githubusercontent.com/85755031/147395428-f5f7f77f-141d-48ad-b1a2-872f25672b7d.jpg)
-![javascript]
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 
 
 <!--
