@@ -1,6 +1,8 @@
 ### Hi there 👋
+💬 Hello there! I’m an environmental engineer going through a career change, migrating to web development. I am familiar with coding front-end, but back-end and data are the areas I enjoy the most. 
 
 📫 How to reach me:
+
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-matiass/)](https://www.linkedin.com/in/breno-matiass/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenoMatias&show_icons=true&theme=dracula)
