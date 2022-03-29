@@ -18,6 +18,7 @@ I am familiar with coding front-end, but back-end and data are the areas I enjoy
 ![docker](https://user-images.githubusercontent.com/85755031/147395428-f5f7f77f-141d-48ad-b1a2-872f25672b7d.jpg)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 <!--
