@@ -24,7 +24,7 @@ I am familiar with coding front-end, but back-end and data are the areas I enjoy
 <!--
 **brenoMatias/brenoMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:a
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
