@@ -1,7 +1,7 @@
 ### Hi there 👋
 💬 I’m an environmental engineer going through a career change, migrating to web development.  
 I am familiar with coding front-end, but back-end and data are the areas I enjoy the most.   
-Here you'll find my studie annotations, learning projects and personal projects code.  
+Here you'll find my study annotations, learning projects and personal projects codes.  
 
 📫 How to reach me:
 
