@@ -1,6 +1,8 @@
 ### Hi there 👋
 💬 I’m an environmental engineer going through a career change, migrating to web development.  
-I am familiar with coding front-end, but back-end and data are the areas I enjoy the most.   
+I am familiar with coding front-end with React, but back-end and data are the areas I enjoy the most.
+I do code in Java, JavaScript, NodeJs, TypeScritp. I know about OOP, SOLID and others software architectures.
+
 Here you'll find my study annotations, learning projects and personal projects codes.  
 
 📫 How to reach me:
