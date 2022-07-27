@@ -1,5 +1,6 @@
 ### Hi there 👋
-💬 I’m an environmental engineer going through a career change, migrating to web development.  
+💬 I'm a web developer and data engineer.
+ 
 I am familiar with coding front-end with React, but back-end and data are the areas I enjoy the most.
 I do code in Python, JavaScript, NodeJs, TypeScript with the databases MongoDB and SQL. 
 I have knowledge in OOP, SOLID and others software architectures.
