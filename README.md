@@ -11,7 +11,7 @@ Here you'll find my study annotations, learning projects and personal projects c
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-matiass/)](https://www.linkedin.com/in/breno-matiass/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenoMatias)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[brenoMatias])
 
 ##
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
