@@ -26,7 +26,7 @@ Here you'll find my study annotations, learning projects and personal projects c
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-
+ 
 <!--
 **brenoMatias/brenoMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
