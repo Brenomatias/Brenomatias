@@ -4,7 +4,7 @@
 I am familiar with coding front-end with React, but back-end and data are the areas I enjoy the most.
 I do code in Python, JavaScript, Node.js, TypeScript with NoSQL and SQL databases. 
 I have knowledge in OOP, SOLID and others software architectures.
-I also have skills on Power Bi and DAX.
+I also have skills in Power Bi and DAX.
 
 Here you'll find my study annotations, learning projects and personal projects codes.  
 
