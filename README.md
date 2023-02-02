@@ -6,7 +6,7 @@ I do code in Python, JavaScript, Node.js, TypeScript with NoSQL and SQL database
 I have knowledge in OOP, SOLID and other software architectures.
 I also have skills in Power Bi and DAX. Cloud knowledge: AWS and Google Cloud Platform.
 
-Here you'll find my study annotations, learning projects and personal projects codes.  
+Here you'll find my study annotations, learning projects and personal projects codes..  
 
 📫 How to reach me:
 
