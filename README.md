@@ -1,5 +1,5 @@
 ### Hi there 👋
-💬 I'm a web developer and data engineer.
+💬 I'm a web developer and data scientist.
  
 I am familiar with coding front-end with React, but back-end and data are the areas I enjoy the most.
 I do code in Python, JavaScript, Node.js, TypeScript with NoSQL and SQL databases. 
