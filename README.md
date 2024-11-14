@@ -1,5 +1,5 @@
 ### Hello there 👋
-💬 I'm a Back-End Developer - ABAP Cloud.
+💬 I'm a Back-End Developer - ABAP Cloud and
 SAP SAP S/4HANA ERP Integration Devolper.
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-matiass/)](https://www.linkedin.com/in/breno-matiass/)
