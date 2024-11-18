@@ -6,7 +6,7 @@
 
 Processes Modeling - API Management - SAP Integration Suite - Cloud Integration Management - iPaaS - SAP BTP
 
-ABAP Core - ABAP RESTful - SAP clean core extensibility and ABAP cloud - Data modeling
+ABAP Core - ABAP RESTful - SAP clean core extensibility and ABAP cloud - Data modeling 
 
 
 
